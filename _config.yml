@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in AngularJS, .</p>
+     <h1>Adventure Finding Front-End Web Developer</h1>
+     <p>I'm a kickass developer specializing in AngularJS, Bootstrap and CSS.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -25,15 +25,15 @@ theme_settings:
   facebook: "https://www.facebook.com/jennibear"
   flickr:
   github: "jjw244" # github profile name, e.g. "madebymunsters"
-  google_plus: "https://plus.google.com/u/0/+JenniferWashburn"
+  google_plus: "u/0/+JenniferWashburn"
   instagram:
   linkedin:  "https://www.linkedin.com/in/jjw244/" # Full URL
-  pinterest: "https://www.pinterest.com/jennibear/"
+  pinterest: "jennibear"
   reddit:
   soundcloud:
   stack_exchange: "http://stackexchange.com/users/10502956/user120077"  # Full URL
   steam:
-  tumblr: "https://www.tumblr.com/dashboard"
+  tumblr: "deliciousdelicaciestx"
   twitter:
   wordpress: "deliciousdelicaciestx.com"
   youtube:
@@ -44,7 +44,7 @@ theme_settings:
   katex: true # Enable if using math markup
 
   # Localization strings
-  str_follow_on: "Follow on"
+  str_follow_on: "Follow me on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
   str_next: "Next"
