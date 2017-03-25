@@ -1,0 +1,11 @@
+---
+layout: post
+title: My Goals as a Frontend Developer
+---
+
+My current goals as a Frontend Developer are to improve my knowledge base in graphical design, SASS (CSS preprocessors), JavaScript frameworks (Backbone, Ember, and ReactJS), cross-browser compatibility, and content management systems (WordPress).  I spent over a thousand hours working with HTML, CSS, AngularJS, Jquery, UI Bootstrap, Firebase, and Vanilla JavaScript combined.  I also have a blog set-up on WordPress to display my chocolate truffle company (still a work in progress, but there is a link to the page on the home page of this blog), and this current blog you are reading is to display my frontend development).  There is so much to learn, and there is nothing better than that feeling of satisfaction when you have “completed” your project to your standards!  The more knowledge I gain, the better suited I will be at creating web pages efficiently, and that are functional and aesthetically appealing.  
+
+My current projects (BlocJams and BlocChat) are functional and suited to work across different browser platforms, but I think style wise, BlocChat, could be easier on the eyes.  I would like to make a sign-in feature (Firebase Email/Password sign-in method) to give access to multiple users and to maintain a level of privacy between users.  I would also like to have a separate page open, or a modal window, that would allow the user to close the home page listing the current chat rooms.  For BlocJams, I would like to add actual albums to the player, and add a sign-in feature (I just need to decide on which form offline I want to use) where each user’s profile is saved for the next time they login.  Stylistically, I kind of like the different shades of purple.  Then finally, host the sites and share with friends and family.  
+
+There are no illusions of BlocJams and BlocChat becoming a notational sensation as the next best thing to Spotify and a message service.   The value is found in the experience! Unfortunately, these projects will be put on the side lines while I continue along the software developer track.  On the bright side, I like having multiple projects to work on, little projects I can complete to feel like I have accomplished something with my day!  I made that!
+

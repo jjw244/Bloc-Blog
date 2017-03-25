@@ -1,0 +1,12 @@
+---
+layout: post
+title: My Experience With BLOC
+---
+
+I began researching different online coding boot-camps mid 2016.  I looked for hiring rates for grads, testimonials, cost, duration, programs offered, currently available jobs, and job growth rates.  I also talked with friends and family that were coders or knew someone who was, asked them how they got where they were, whether they enjoyed their work, what they did daily at their job, and what their take was on graduates from an online boot camp joining the workforce.  The culmination of the information I gathered brought me to signing up with a boot camp later that year. 
+
+I signed up with BLOC in the Fall of 2016 and began my first steps towards a career in software development.  I have LOVED and valued the experience and mentorship BLOC’s program has provided for me. Everyone I have met so far has been incredibly knowledgeable, patient, encouraging, supportive, insightful, and positive.  I haven’t tried another boot-camp (why would I?), so my opinion is based on things that I look for in educators and compared to other educational experiences I have had.  I chose to go with an online coding boot-camp because I would be able to do the work from anywhere (with an internet connection and my laptop), and because I very much value what a mentor can bring to an educational relationship.  When I decided on a boot-camp instead of being self-taught, I was a bit lost as to where to start.  
+
+BLOC’s well designed programs and individual checkpoints, allowed me to slowly build up a realistic confidence in my abilities and knowledge (or lack thereof in the beginning).  At each checkpoint, my mentor would review my work and get back to me on anything that I could do better or differently, and would walk me through the changes if necessary.  I had meetings with my first mentor three times a week, and once a week meetings with my second mentor (meeting times were discussed with each mentor prior to finalizing a schedule).  I had the opportunity to reach out to my mentor at any point outside of our scheduled meeting times to ask questions, and for the most part turn-around time for answers was maybe an hour!  If for whatever reason I was unable to get ahold of my mentor (I can’t actually think of a time where that was the case), BLOC had set up Slack channels for their students and alumni.
+
+I am only half-way through my program, which is the Software Developer track, and have valued every roadblock I have overcome and the insightful help I have had from BLOC mentors!!
