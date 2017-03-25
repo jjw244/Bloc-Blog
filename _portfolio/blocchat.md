@@ -7,7 +7,11 @@ short-description: Build a chat room using Bootstrap and Firebase for users to b
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocchat.jpg)
+![]({{ site.baseurl }}/img/blocchat-messages.png)
+<!--
+![]({{ site.baseurl }}/img/blocchat-newroom-modal.png)
+![]({{ site.baseurl }}/img/blocchat-new-room-and-message.png)
+-->
 
 ## Explanation
 

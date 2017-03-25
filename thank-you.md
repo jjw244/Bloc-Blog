@@ -6,4 +6,4 @@ feature-img: "img/color.png"
 hide: true
 ---
 
-I would like to thank my family for thier support, love, and confidence in me <3 
+I would like to thank my family for thier support, love, and confidence in me over the years <3 
